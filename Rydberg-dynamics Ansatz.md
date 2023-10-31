@@ -1,3 +1,9 @@
+---
+tags:
+  - Hamiltonian
+  - RydbergDynamics
+---
+
 
 Using the QPE mid-circuit measurement method, we want to implement some evolution unitary $U=\exp\{-i\, M\,t\}$, where $M$ is an information matrix that essentially extracts information out of the state and projects it accordingly.
 $$M|\psi\rangle = m |\psi\rangle $$

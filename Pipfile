@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 ipywidgets = "*"
+sympy = "*"
+numpy = "*"
+matplotlib = "*"
+scipy = "*"
+ipykernel = "*"
 
 [dev-packages]
 ipykernel = "*"
